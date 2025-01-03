@@ -1,0 +1,7 @@
+v 3
+file . "decoder_1to2.vhdl" "20250103192338.000" "20250103212440.926":
+  entity decoder_1to2 at 1( 0) + 0 on 11;
+  architecture behavioral of decoder_1to2 at 14( 250) + 0 on 12;
+file . "tb_decoder_1to2.vhdl" "20250103193624.000" "20250103213631.961":
+  entity tb_decoder_1to2 at 1( 0) + 0 on 15;
+  architecture behavioral of tb_decoder_1to2 at 9( 152) + 0 on 16;
