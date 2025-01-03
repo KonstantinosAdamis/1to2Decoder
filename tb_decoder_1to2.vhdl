@@ -28,7 +28,7 @@ architecture Behavioral of tb_decoder_1to2 is
             return "0";
         else
             return "1";
-		end if;
+	end if;
     end function;
 
 begin
